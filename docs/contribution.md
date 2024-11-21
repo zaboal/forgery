@@ -1,0 +1,1 @@
+construct() should containt only that is impossible to do after deployment.

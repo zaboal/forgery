@@ -1,0 +1,7 @@
+[profile.local]
+
+[fmt]
+line_length = 110
+multiline_func_header = "params_first"
+single_line_statement_blocks = "multi"
+sort_imports = true
